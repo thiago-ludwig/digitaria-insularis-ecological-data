@@ -20,7 +20,6 @@ The study evaluates the current and future climatic suitability of Digitaria ins
 - Scenarios: SSP126 and SSP585
 - Time horizons: 2030 (2021–2040) and 2090 (2081–2100)
 
-- 
 - ### Variable selection
 - Principal Component Analysis (PCA) used to reduce collinearity
 - PCA layers (PC1–PCn) used as predictors in ENMTML models
